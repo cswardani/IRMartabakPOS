@@ -1,0 +1,2 @@
+# IRMartabakPOS
+Node.js + Electron
